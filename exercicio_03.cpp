@@ -1,10 +1,10 @@
-/*Exerc�cio 03*/
+/*Exercício 03*/
 
 #include <stdio.h>
 
 int main()
 {
-	float deposito, taxa = 0.5, rendimento, total;
+	float deposito, taxa = 0.5, rendimento, total; /*A taxa pode ser alterada se necessário*/
 	
 	printf("Valor para deposito: ");
 	scanf("%f", &deposito);
